@@ -1,5 +1,5 @@
 # Desafio Target Sistemas.
-Este repositório contém soluções para uma série de problemas técnicos que foram propostos como parte do processo seletivo.
+Este repositório contém soluções para uma série de problemas técnicos que foram propostos como parte de um processo seletivo da Gupy.
 
 ## Desafios
 
@@ -36,11 +36,11 @@ Eu utilizei um arquivo JSON que foi disponibilizado como fonte dos dados do fatu
 ### 4. Percentual de Representação dos Estados
 No quarto desafio, foi solicitado que eu escrevesse um programa que, dado o valor de faturamento mensal de uma distribuidora detalhado por estado calcularia o percentual de representação que cada estado teve dentro do valor total mensal da distribuidora:
 
-SP – R$67.836,43
-RJ – R$36.678,66
-MG – R$29.229,88
-ES – R$27.165,48
-Outros – R$19.849,53
+-SP – R$67.836,43
+-RJ – R$36.678,66
+-MG – R$29.229,88
+-ES – R$27.165,48
+-Outros – R$19.849,53
 
 ### 5. Inversão de String
 Para o quinto desafio, foi solicitado que eu escrevesse um programa que invertesse os caracteres de uma string.
